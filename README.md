@@ -1,2 +1,1 @@
 # eBooks
-## >*Contributions welcome!*<
